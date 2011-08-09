@@ -49,6 +49,8 @@ While a sharded MongoDB cluster can be run without replica sets, they are necess
 Usage Example - WordCount
 -------------------------
 
+```java
+
 	package org.apache.hadoop.contrib.mongoreduce;
 	
 	import java.io.IOException;
@@ -214,7 +216,7 @@ Usage Example - WordCount
 	}
 
 
-
+```
 
 Streaming
 ---------
